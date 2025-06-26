@@ -1,4 +1,4 @@
-# 🌍 Image Segmentation for Disaster Detection
+# 🌍 Image Segmentation for Disaster Resilience
 
 This project uses satellite images and image segmentation techniques to detect disaster-affected areas such as floods, landslides, wildfires, and building collapses. The goal is to help authorities quickly identify impacted zones for faster response and recovery.
 
